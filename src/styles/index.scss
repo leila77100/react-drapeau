@@ -1,0 +1,6 @@
+// il faut mettre le settings en premier pour que le style de base soit lu en premier 
+@import "./settings";
+@import "./components/navigation";
+@import "./components/logo";
+@import "./components/card";
+@import "./components/countries";
